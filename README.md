@@ -1,4 +1,4 @@
-# Phototron
+# UV Tolerance / Phototron repository
 
 Public repository for the data files and code used in UV tolerance and resilience varies dramatically across freshwater organisms (Stemmler et al. 2026). 
 
