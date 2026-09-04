@@ -1,0 +1,46 @@
+UV-B,PRR,survival
+NA,dark control,1
+NA,dark control,1
+NA,dark control,1
+NA,dark control,1
+NA,dark control,1
+145,PRR+,0
+145,PRR+,0
+145,PRR+,0
+145,PRR+,0
+145,PRR+,0
+90,PRR+,1
+90,PRR+,0.25
+90,PRR+,0.75
+90,PRR+,1
+90,PRR+,1
+70,PRR+,1
+70,PRR+,0.75
+70,PRR+,1
+70,PRR+,1
+70,PRR+,1
+29,PRR+,1
+29,PRR+,1
+29,PRR+,1
+29,PRR+,1
+29,PRR+,1
+145,PRR-,0
+145,PRR-,0
+145,PRR-,0
+145,PRR-,0
+145,PRR-,0
+90,PRR-,0.5
+90,PRR-,0.5
+90,PRR-,0.75
+90,PRR-,0.5
+90,PRR-,0.5
+70,PRR-,1
+70,PRR-,1
+70,PRR-,1
+70,PRR-,1
+70,PRR-,1
+29,PRR-,1
+29,PRR-,1
+29,PRR-,1
+29,PRR-,1
+29,PRR-,1
